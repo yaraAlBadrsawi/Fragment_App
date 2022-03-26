@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Assinment1</string>
+    <string name="personal_data">Personal Data</string>
+    <string name="student_name">Student name</string>
+    <string name="student_address">Student Address</string>
+    <string name="next">Next</string>
+    <string name="university_data">University Data</string>
+    <string name="university_name">University Name</string>
+    <string name="university_specialization">University Specialization</string>
+    <string name="student_number">Student Number.</string>
+    <string name="finish">Finish</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+</resources>
